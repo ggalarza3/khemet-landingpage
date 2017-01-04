@@ -216,11 +216,11 @@ p.copyright {
 
 @font-face {
     font-family: 'Optimus Princeps';
-    src: url(fonts/optimusprinceps.woff);
+    src: url(../fonts/optimusprinceps.woff);
 }
 
 @font-face {
     font-family: 'Optimus Princeps';
-    src: url(fonts/optimusprincepssemibold.woff);
+    src: url(../fonts/optimusprincepssemibold.woff);
     font-weight: bold;
 }
